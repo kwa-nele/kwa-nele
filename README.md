@@ -12,11 +12,11 @@
 
 Aspiring Software Engineer and first year student, currently sharpening my coding skills and interested in AI, machine learning and app development.
 
-🔭 &nbsp;I'm currently working on **Study chatbot**  
+🔭 &nbsp;I'm currently working on ** A Study Assistant Chatbot**  
 🌱 &nbsp;I'm currently learning **Python, Intro to ML,C++**  
 👯 &nbsp;I'm looking to collaborate on **Open- source projects**  
-🤔 &nbsp;I'm looking for help with **Web development**  
-💬 &nbsp;Ask me about **Python**  
+🤔 &nbsp;I'm looking for help with ** Databases **  
+💬 &nbsp;Ask me about **Software Engineering **  
 ⚡ &nbsp;Fun fact: **I used to vibecode!**
 
 ### 🛠️ Tech Stack
